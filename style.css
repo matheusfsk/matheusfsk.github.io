@@ -1,0 +1,30 @@
+body{color: #007EA7;
+    background: whitesmoke;
+    padding: 3%;
+    margin: 2%;}
+h1{ font-family: 'Roboto', sans-serif;
+    }
+p{font-family: fantasy;}
+    
+.player{font-size: 50px;;}
+.tibia{font-size: 45px;}
+.cs{font-size: 40px;}
+.mir4{font-size: 35px;}
+.axie{font-size: 30px;}
+
+.nome{text-align: center;}
+
+.picture{
+        float: left;
+        height: 270px;
+        padding: 10px;
+        background-color:rgb(179, 203, 44) ;}
+        
+.description{position: absolute;
+top: 33%;
+right: 16%;
+font-size: 17px;}
+
+.image-container{height: 290px;}
+
+ul li:nth-child(odd){background-color:deeppink;}
